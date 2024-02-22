@@ -1,0 +1,4 @@
+{
+  "@odata.context": "https://projetoai-900.search.windows.net/indexes('malwisp-index')/$metadata#docs(*)",
+  "value": []
+}
